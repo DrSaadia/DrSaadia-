@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Saadia Hussain</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header, footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Dr. Saadia Hussain's Page</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Dr. Saadia Hussain is an expert tutor with an MBBS degree from Fatima Jinnah Medical University, Pakistan. She specializes in medical subjects, biology, chemistry, physics, and Arabic grammar. With over 5 years of teaching experience, she is dedicated to helping MBBS and medical students excel through online teaching.</p>
+        </section>
+        <section>
+            <h2>Courses Offered</h2>
+            <ul>
+                <li>Medical Subjects</li>
+                <li>Biology</li>
+                <li>Chemistry</li>
+                <li>Physics</li>
+                <li>Arabic Grammar</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <p>Email: saadia.hussain@example.com</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Dr. Saadia Hussain</p>
+    </footer>
+</body>
+</html>
